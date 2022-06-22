@@ -1,0 +1,22 @@
+{
+  "name": "l-intercept",
+  "version": "1.0.0",
+  "description": "通过浏览器插件或者service worker来拦截或者mock数据",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AboyL/l-intercept.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AboyL/l-intercept/issues"
+  },
+  "homepage": "https://github.com/AboyL/l-intercept#readme",
+  "dependencies": {
+    "father-build": "^1.22.3"
+  }
+}
